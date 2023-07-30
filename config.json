@@ -1,0 +1,8 @@
+{
+    "txAmountMin": 4,
+    "txAmountMax": 9,
+    "timeSleepMin": 90000,
+    "timeSleepMax": 250000,
+    "nodeURL": "https://fullnode.mainnet.aptoslabs.com/v1/",
+    "APTprice": 7.5
+}

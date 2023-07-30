@@ -1,0 +1,4 @@
+aptos move compile  --package-dir pancake-contracts-move/pancake-swap/sources/swap/ --included-artifacts all
+cat file.abi | od -v -t x1 -A n | tr -d ' \n'
+
+
