@@ -4,13 +4,13 @@
 
 На сайте выбираем либо Windows installer либо macOS Installer
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled.png)
+![Untitled](screenshoots/Untitled.png)
 
 На Linux пишем команду в терминале → sudo apt install nodejs
 
 Теперь распаковываем архив с программой и переносим папку из архива в удобное для вас место, например на рабочий стол
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%201.png)
+![Untitled](screenshoots/Untitled%201.png)
 
 После чего архив можно удалить
 
@@ -20,21 +20,21 @@
 
 В поле вводим желаемое количество кошельков
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%202.png)
+![Untitled](screenshoots/Untitled%202.png)
 
 Потом выключаем интернет и нажимаем на синюю стрелочку, после генерации жмем export чтобы скачать кошельки в виде таблички
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%203.png)
+![Untitled](screenshoots/Untitled%203.png)
 
 Соxраняем то что скачали в надежном месте. 
 Открываем скачанный файл и копируем приватные ключи
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%204.png)
+![Untitled](screenshoots/Untitled%204.png)
 
 Переходим в папку с программой и открываем файл privateKeys.txt
 Вставляем туда скопированные приватники
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%205.png)
+![Untitled](screenshoots/Untitled%205.png)
 
 Теперь нужно пополнить все наши кошельки ( рекомендуется от 0.4 аптоса, чем больше баланс тем разнообразней будут действия с NFT ) 
 Сделать это можно с любой популярной биржи: Binance, Bybit, OKX
@@ -42,7 +42,7 @@
 После пополнения кошельков нужно настроить конфиг
 В папке программы открываем config.json (можно просто через блокнот)
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%206.png)
+![Untitled](screenshoots/Untitled%206.png)
 
 тут нужно настроить некоторые значения по своему усмотрению (либо оставить все по умолчанию):
 
@@ -72,27 +72,27 @@
 
 если вылезает это окно то жмем more info
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%207.png)
+![Untitled](screenshoots/Untitled%207.png)
 
 И потом **Run anyway**
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%208.png)
+![Untitled](screenshoots/Untitled%208.png)
 
 **Для macOS/Linux:**
 
 открываем папку в терминале и пишем команду **make run**
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%209.png)
+![Untitled](screenshoots/Untitled%209.png)
 
 Если все сделали правильно, после запуска вы должны увидеть окно консоли с запущеной программой:
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%2010.png)
+![Untitled](screenshoots/Untitled%2010.png)
 
 Если табличка в консоли выглядит криво то попробуйте растянуть окно консоли
 
 Спустя некоторое время вы увидите что начинают идти транзакции на кошельках:
 
-![Untitled](%D0%93%D0%B0%D0%B8%CC%86%D0%B4%20%D0%BF%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D1%83%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B0%207435d78f7b464ef9b1c65948315047f6/Untitled%2011.png)
+![Untitled](screenshoots/Untitled%2011.png)
 
 Давайте подробнее разберем что там написано:
 
