@@ -1,5 +1,7 @@
 # Гайд по запуску скрипта
 **Скчиваем папку с программой нажав в репозитории Code -> Download Zip** 
+
+
 **Для начала нужно установить nodejs  ->  [https://nodejs.org/en/download](https://nodejs.org/en/download)** 
 
 На сайте выбираем либо Windows installer либо macOS Installer
