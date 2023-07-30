@@ -6,13 +6,13 @@
 
 На сайте выбираем либо Windows installer либо macOS Installer
 
-![Untitled](screenshoots/Untitled.png)
+![Untitled](screenshots/Untitled.png)
 
 На Linux пишем команду в терминале → sudo apt install nodejs
 
 Теперь распаковываем архив с программой и переносим папку из архива в удобное для вас место, например на рабочий стол
 
-![Untitled](screenshoots/Untitled%201.png)
+![Untitled](screenshots/Untitled%201.png)
 
 После чего архив можно удалить
 
@@ -22,21 +22,21 @@
 
 В поле вводим желаемое количество кошельков
 
-![Untitled](screenshoots/Untitled%202.png)
+![Untitled](screenshots/Untitled%202.png)
 
 Потом выключаем интернет и нажимаем на синюю стрелочку, после генерации жмем export чтобы скачать кошельки в виде таблички
 
-![Untitled](screenshoots/Untitled%203.png)
+![Untitled](screenshots/Untitled%203.png)
 
 Соxраняем то что скачали в надежном месте. 
 Открываем скачанный файл и копируем приватные ключи
 
-![Untitled](screenshoots/Untitled%204.png)
+![Untitled](screenshots/Untitled%204.png)
 
 Переходим в папку с программой и открываем файл privateKeys.txt
 Вставляем туда скопированные приватники
 
-![Untitled](screenshoots/Untitled%205.png)
+![Untitled](screenshots/Untitled%205.png)
 
 Теперь нужно пополнить все наши кошельки ( рекомендуется от 0.4 аптоса, чем больше баланс тем разнообразней будут действия с NFT ) 
 Сделать это можно с любой популярной биржи: Binance, Bybit, OKX
@@ -44,7 +44,7 @@
 После пополнения кошельков нужно настроить конфиг
 В папке программы открываем config.json (можно просто через блокнот)
 
-![Untitled](screenshoots/Untitled%206.png)
+![Untitled](screenshots/Untitled%206.png)
 
 тут нужно настроить некоторые значения по своему усмотрению (либо оставить все по умолчанию):
 
@@ -74,27 +74,27 @@
 
 если вылезает это окно то жмем more info
 
-![Untitled](screenshoots/Untitled%207.png)
+![Untitled](screenshots/Untitled%207.png)
 
 И потом **Run anyway**
 
-![Untitled](screenshoots/Untitled%208.png)
+![Untitled](screenshots/Untitled%208.png)
 
 **Для macOS/Linux:**
 
 открываем папку в терминале и пишем команду **make run**
 
-![Untitled](screenshoots/Untitled%209.png)
+![Untitled](screenshots/Untitled%209.png)
 
 Если все сделали правильно, после запуска вы должны увидеть окно консоли с запущеной программой:
 
-![Untitled](screenshoots/Untitled%2010.png)
+![Untitled](screenshots/Untitled%2010.png)
 
 Если табличка в консоли выглядит криво то попробуйте растянуть окно консоли
 
 Спустя некоторое время вы увидите что начинают идти транзакции на кошельках:
 
-![Untitled](screenshoots/Untitled%2011.png)
+![Untitled](screenshots/Untitled%2011.png)
 
 Давайте подробнее разберем что там написано:
 
